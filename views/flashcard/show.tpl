@@ -1,0 +1,1 @@
+/Users/12dong/go/src/flashcard/views/flashcard/show.tpl
